@@ -1,0 +1,39 @@
+{
+  "siteName": "BONZE",
+  "siteUrl": "https://murzzsite.github.io/bonze-electro",
+  "lang": "ru",
+  "repo": "murzzsite/bonze-electro",
+  "ref": "89775VFXYN",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи от BONZE",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "BONZE",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Пришлите спецификацию — проверим состав механизмов и подготовим расчёт.",
+  "ctaButton": "Рассчитать проект",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "ed6af61cda444c157e9b4ec221af9367",
+  "previewSecret": "ffb8139c4d271f76",
+  "theme": {
+    "accent": "var(--clr-accent)",
+    "accent-soft": "var(--clr-accent-soft)",
+    "bg": "var(--clr-bg)",
+    "surface": "var(--clr-surface)",
+    "ink": "var(--clr-ink)",
+    "text": "var(--clr-text)",
+    "soft": "var(--clr-text-soft)",
+    "line": "var(--clr-line)"
+  }
+}
